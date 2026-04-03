@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://example.vercel.app/sitemap.xml
+Sitemap: https://kast-card-referral-code-ar.vercel.app/sitemap.xml
